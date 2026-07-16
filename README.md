@@ -18,10 +18,10 @@ Este es un proyecto construido con Java y Spring Boot. El objetivo principal de 
 Para evitar problemas con otros proyectos en el mismo servidor, esta aplicacion esta configurada para usar el puerto 2329.
 
 El proyecto cuenta con dos controladores que incluyen las siguientes cuatro rutas:
-* `/AJMG_Act1/endpointSaludo` : Devuelve un texto de saludo.
-* `/AJMG_Act1/endpointLista` : Devuelve una pequeña lista con datos simulados (nombre, apellido, semestre y edad).
-* `/AJMG_Act1/endpointEdad` : Devuelve un simple numero.
-* `/AJMG_Act1/endpointDespedida` : Devuelve una despedida.
+* `/MGAJ_Act1/endpointSaludo` : Devuelve un texto de saludo.
+* `/MGAJ_Act1/endpointLista` : Devuelve una pequeña lista con datos simulados (nombre, apellido, semestre y edad).
+* `/MGAJ_Act1/endpointEdad` : Devuelve un simple numero.
+* `/MGAJ_Act1/endpointDespedida` : Devuelve una despedida.
 
 ## Como se programaron los endpoints
 
@@ -47,13 +47,17 @@ Para poner este proyecto en linea, se realizo lo siguiente:
 
 ## Links de mis endpoints
 http://68.183.115.226:2329/MGAJ_Act1/endpointSaludo
+
 Devuelve un texto de saludo.
 
 http://68.183.115.226:2329/MGAJ_Act1/endpointLista
+
 Devuelve una pequeña lista con datos simulados (nombre, apellido, semestre y edad).
 
 http://68.183.115.226:2329/MGAJ_Act1/endpointEdad
+
 Devuelve un simple numero.
 
 http://68.183.115.226:2329/MGAJ_Act1/endpointDespedida
+
 Devuelve un texto de despedida.
