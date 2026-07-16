@@ -46,7 +46,14 @@ Para poner este proyecto en linea, se realizo lo siguiente:
 4. Finalmente, se encendio la aplicacion en segundo plano usando comandos de Linux, lo que permite que el proyecto siga funcionando en internet de forma continua aunque se cierre la conexion con el servidor.
 
 ## Links de mis endpoints
-* `http://68.183.115.226:2329/AJMG_Act1/endpointSaludo` : Devuelve un texto de saludo.
-* `http://68.183.115.226:2329/AJMG_Act1/endpointLista` : Devuelve una pequeña lista con datos simulados (nombre, apellido, semestre y edad).
-* `http://68.183.115.226:2329/AJMG_Act1/endpointEdad` : Devuelve un simple numero.
-* `http://68.183.115.226:2329/AJMG_Act1/endpointDespedida` : Devuelve un texto de despedida.
+http://68.183.115.226:2329/MGAJ_Act1/endpointSaludo
+Devuelve un texto de saludo.
+
+http://68.183.115.226:2329/MGAJ_Act1/endpointLista
+Devuelve una pequeña lista con datos simulados (nombre, apellido, semestre y edad).
+
+http://68.183.115.226:2329/MGAJ_Act1/endpointEdad
+Devuelve un simple numero.
+
+http://68.183.115.226:2329/MGAJ_Act1/endpointDespedida
+Devuelve un texto de despedida.
